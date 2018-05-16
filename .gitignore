@@ -1,0 +1,5 @@
+.git\*
+.idea\*
+*.db
+TelegramBot\bin\*
+TelegramBot\obj\*
